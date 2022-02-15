@@ -29,6 +29,7 @@ public class moveControl : MonoBehaviour
     public void MoveRight()
     {
         moveRight = true;
+        //;glrekgregkergl;krgl;ergkre;gl
     }
     public void Jump()
     {
